@@ -1,28 +1,34 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Gesture-Based Mouse Control Using Hand Movements
+  The Gesture-Based Mouse Control System is an innovative project that enables users to interact with their computers through hand gestures. By utilizing computer vision and advanced machine learning algorithms, the system tracks hand movements and interprets gestures to control the mouse cursor, perform clicks, and execute other actions. This solution is particularly beneficial for individuals with physical limitations, offering an intuitive and contactless alternative to traditional input devices.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+
+  The Gesture-Based Mouse Control System is a cutting-edge application that revolutionizes human-computer interaction by eliminating the need for physical input devices like a mouse or touchpad. It leverages technologies such as OpenCV, MediaPipe, and PyAutoGUI to detect hand gestures captured via a standard camera. These gestures are interpreted as commands to move the cursor, perform left and right clicks, or execute advanced functions like drag-and-drop. Designed to enhance accessibility, this system offers an inclusive solution for individuals with mobility challenges, while also providing a futuristic, intuitive user experience for general users.
+
+
+
+
+
+
+
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Mouse Movement Control: Control the mouse cursor using hand gestures in real-time.
+- Left-Click Gesture: Perform a left-click by pinching or using specific finger gestures.
+- Right-Click Gesture: Trigger a right-click by using gestures like extending specific fingers.
+- Hands-Free Interaction: No need for a physical mouse; completely touchless control.
+
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+Hardware Requirements
+- Camera: A standard webcam or built-in laptop camera for capturing hand movements.
+- Computer: A computer or laptop with basic specifications (at least 4GB RAM, dual-core processor).
+- Stable Lighting Conditions: Adequate lighting to ensure accurate gesture detection.
+- Software Requirements
+- Operating System: Windows, macOS, or Linux.
+- Programming Language: Python 3.8 or higher.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
